@@ -75,7 +75,7 @@ pnpm build:antd
 
 <p>
   <a href="https://www.antiy.cn/" title="安天科技集团">
-    <img src="https://www.antiy.cn/images/logo.png" height="44" alt="安天科技集团">
+    <img src="./docs/assets/antiy-user-logo.svg" width="310" height="76" alt="安天科技集团">
   </a>
 </p>
 
