@@ -63,13 +63,26 @@ pnpm check:type
 pnpm build:antd
 ```
 
-## 关联仓库
+## 关联项目
 
-| 项目 | 仓库 | 授权方式 |
+| 项目 | 仓库状态 | 授权方式 |
 | --- | --- | --- |
-| 管理前端 | [autool/imcs-admin](https://github.com/autool/imcs-admin) | Vben MIT License |
-| Flutter 客户端 | [autool/imcs-app](https://github.com/autool/imcs-app) | 商业授权 |
-| 后端服务 | [autool/imcs-backend](https://github.com/autool/imcs-backend) | 商业授权 |
+| 管理前端 | [公开仓库：autool/imcs-admin](https://github.com/autool/imcs-admin) | Vben MIT License |
+| Flutter 客户端 | 未公开仓库：`imcs-app` | 商业授权，需联系作者 |
+| 后端服务 | 未公开仓库：`imcs-backend` | 商业授权，需联系作者 |
+
+## 商业授权与定制开发
+
+IMCS App 和后端服务目前未作为开源软件公开。获取源码、使用、复制、修改、部署、分发、二次开发或用于商业项目，均需事先联系作者并取得相应授权。
+
+如有以下需求，欢迎联系：
+
+- IMCS App 与后端服务商业授权；
+- 私有化部署、环境适配和系统集成；
+- 功能定制、二次开发和行业场景扩展；
+- 数据迁移、接口对接、部署咨询和技术支持。
+
+联系邮箱：[d765432@outlook.com](mailto:d765432@outlook.com)
 
 ## 使用用户
 
