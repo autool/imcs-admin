@@ -1,0 +1,27 @@
+{
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "codeLogin": "Code Login",
+    "qrcodeLogin": "Qr Code Login",
+    "forgetPassword": "Forget Password",
+    "profile": "Profile"
+  },
+  "authentication": {
+    "loginSuccess": "Login Success",
+    "loginSuccessDesc": "Welcome Back",
+    "loginFailed": "Login Failed",
+    "loginFailedDesc": "An error occurred during login, please try again",
+    "invalidCredentials": "Invalid username or password",
+    "tooManyAttempts": "Too many login attempts, please try again later",
+    "networkError": "Network connection error, please check your network settings",
+    "serverError": "Internal server error, please contact administrator",
+    "invalidRequest": "Invalid request parameters, please check",
+    "noPermission": "No permission to access, please contact administrator"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "analytics": "Analytics",
+    "workspace": "Workspace"
+  }
+}

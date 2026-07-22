@@ -1,0 +1,601 @@
+{
+  "releasedAssets": [
+    {
+      "brand": "Huawei",
+      "model": "2288H V5",
+      "paths": [
+        "/assets/model/huawei-2288h-v5.png",
+        "/assets/model/huawei-2288h-v5_u.png"
+      ],
+      "sourceType": "existing_real_asset",
+      "expectedRackUnits": 2,
+      "driveBayLayout": "12 x 3.5-inch front panel sample",
+      "uPositionView": "straight front view, transparent background"
+    },
+    {
+      "brand": "Huawei",
+      "model": "1288H V3",
+      "paths": [
+        "/assets/model/huawei-1288h-v3.png",
+        "/assets/model/huawei-1288h-v3_u.png"
+      ],
+      "sourceType": "generated_from_reference",
+      "expectedRackUnits": 1,
+      "expectedDriveBays": 8,
+      "driveBayLayout": "8 x 2.5-inch SFF single-row RH1288 V3 front panel sample",
+      "uPositionView": "straight front view, transparent background"
+    },
+    {
+      "brand": "Huawei",
+      "model": "1288H V5",
+      "paths": [
+        "/assets/model/huawei-1288h-v5.png",
+        "/assets/model/huawei-1288h-v5_u.png"
+      ],
+      "sourceType": "generated_from_reference",
+      "expectedRackUnits": 1,
+      "driveBayLayout": "1U single-row FusionServer V5 front panel",
+      "uPositionView": "straight front view, transparent background"
+    },
+    {
+      "brand": "Huawei",
+      "model": "2488H V5",
+      "paths": [
+        "/assets/model/huawei-2488h-v5.png",
+        "/assets/model/huawei-2488h-v5_u.png"
+      ],
+      "sourceType": "generated_from_reference",
+      "expectedRackUnits": 2,
+      "expectedDriveBays": 24,
+      "driveBayLayout": "24 x 2.5-inch SFF high-density FusionServer V5 front panel sample with left and right control modules",
+      "uPositionView": "straight front view, transparent background"
+    },
+    {
+      "brand": "Huawei",
+      "model": "TaiShan 2280 V2",
+      "paths": [
+        "/assets/model/huawei-taishan-2280-v2.png",
+        "/assets/model/huawei-taishan-2280-v2_u.png"
+      ],
+      "sourceType": "generated_from_reference",
+      "expectedRackUnits": 2,
+      "expectedDriveBays": 25,
+      "driveBayLayout": "25 x 2.5-inch SFF high-density TaiShan 2280 V2 front panel sample with left and right control modules",
+      "uPositionView": "straight front view, transparent background"
+    },
+    {
+      "brand": "Huawei",
+      "model": "2288H V7",
+      "paths": [
+        "/assets/model/huawei-2288h-v7.png",
+        "/assets/model/huawei-2288h-v7_u.png"
+      ],
+      "sourceType": "generated_from_reference",
+      "expectedRackUnits": 2,
+      "expectedDriveBays": 24,
+      "driveBayLayout": "24 x 2.5-inch SFF FusionServer 2288H V7 front panel sample, using the xFusion 2025 user guide layout for the legacy Huawei catalog row",
+      "uPositionView": "straight front view, transparent background"
+    },
+    {
+      "brand": "Dell",
+      "model": "PowerEdge R740 XD",
+      "paths": [
+        "/assets/model/dell-r740xd.png",
+        "/assets/model/dell-r740xd_u.png"
+      ],
+      "sourceType": "existing_real_asset",
+      "expectedRackUnits": 2,
+      "driveBayLayout": "12 x 3.5-inch LFF front panel sample",
+      "uPositionView": "straight front view, transparent background"
+    },
+    {
+      "brand": "Dell",
+      "model": "PowerEdge R640",
+      "paths": [
+        "/assets/model/dell-poweredge-r640.png",
+        "/assets/model/dell-poweredge-r640_u.png"
+      ],
+      "sourceType": "generated_from_reference",
+      "expectedRackUnits": 1,
+      "expectedDriveBays": 8,
+      "driveBayLayout": "8 x 2.5-inch SFF front panel",
+      "uPositionView": "straight front view, transparent background"
+    },
+    {
+      "brand": "Dell",
+      "model": "PowerEdge R740",
+      "paths": [
+        "/assets/model/dell-poweredge-r740.png",
+        "/assets/model/dell-poweredge-r740_u.png"
+      ],
+      "sourceType": "generated_from_reference",
+      "expectedRackUnits": 2,
+      "expectedDriveBays": 8,
+      "driveBayLayout": "8 x 2.5-inch SFF front panel with dual ventilation sections",
+      "uPositionView": "straight front view, transparent background"
+    },
+    {
+      "brand": "Dell",
+      "model": "PowerEdge R750",
+      "paths": [
+        "/assets/model/dell-poweredge-r750.png",
+        "/assets/model/dell-poweredge-r750_u.png"
+      ],
+      "sourceType": "generated_from_reference",
+      "expectedRackUnits": 2,
+      "expectedDriveBays": 8,
+      "driveBayLayout": "8 x 2.5-inch SFF front panel with dual ventilation sections",
+      "uPositionView": "straight front view, transparent background"
+    },
+    {
+      "brand": "Dell",
+      "model": "PowerEdge R940xa",
+      "paths": [
+        "/assets/model/dell-poweredge-r940xa.png",
+        "/assets/model/dell-poweredge-r940xa_u.png"
+      ],
+      "sourceType": "generated_from_reference",
+      "expectedRackUnits": 4,
+      "expectedDriveBays": 32,
+      "driveBayLayout": "32 x 2.5-inch SFF 4U front panel based on the Dell R940xa official front-view reference",
+      "uPositionView": "straight front view, transparent background"
+    },
+    {
+      "brand": "Dell",
+      "model": "PowerEdge R650 XS",
+      "paths": [
+        "/assets/model/dell-poweredge-r650-xs.png",
+        "/assets/model/dell-poweredge-r650-xs_u.png"
+      ],
+      "sourceType": "generated_from_reference",
+      "expectedRackUnits": 1,
+      "expectedDriveBays": 8,
+      "driveBayLayout": "8 x 2.5-inch SFF front panel with ventilation sections",
+      "uPositionView": "straight front view, transparent background"
+    },
+    {
+      "brand": "Dell",
+      "model": "PowerEdge R730 XD",
+      "paths": [
+        "/assets/model/dell-poweredge-r730-xd.png",
+        "/assets/model/dell-poweredge-r730-xd_u.png"
+      ],
+      "sourceType": "generated_from_reference",
+      "expectedRackUnits": 2,
+      "expectedDriveBays": 24,
+      "driveBayLayout": "24 x 2.5-inch SFF front panel",
+      "uPositionView": "straight front view, transparent background"
+    },
+    {
+      "brand": "Dell",
+      "model": "PowerEdge R720 XD",
+      "paths": [
+        "/assets/model/dell-poweredge-r720-xd.png",
+        "/assets/model/dell-poweredge-r720-xd_u.png"
+      ],
+      "sourceType": "generated_from_reference",
+      "expectedRackUnits": 2,
+      "expectedDriveBays": 24,
+      "driveBayLayout": "12 columns x 2 rows, 24 total 2.5-inch SFF front panel based on verified Dell R720xd 2.5-inch references",
+      "uPositionView": "straight front view, transparent background"
+    },
+    {
+      "brand": "Dell",
+      "model": "PowerEdge R730",
+      "paths": [
+        "/assets/model/dell-poweredge-r730.png",
+        "/assets/model/dell-poweredge-r730_u.png"
+      ],
+      "sourceType": "generated_from_reference",
+      "expectedRackUnits": 2,
+      "expectedDriveBays": 8,
+      "driveBayLayout": "8 x 2.5-inch SFF front panel with dual ventilation sections",
+      "uPositionView": "straight front view, transparent background"
+    },
+    {
+      "brand": "Dell",
+      "model": "PowerEdge R510",
+      "paths": [
+        "/assets/model/dell-poweredge-r510.png",
+        "/assets/model/dell-poweredge-r510_u.png"
+      ],
+      "sourceType": "generated_from_reference",
+      "expectedRackUnits": 2,
+      "expectedDriveBays": 12,
+      "driveBayLayout": "12 x 3.5-inch LFF front panel",
+      "uPositionView": "straight front view, transparent background"
+    },
+    {
+      "brand": "xFusion",
+      "model": "2288H V7",
+      "paths": [
+        "/assets/model/xfusion-2288h-v7.png",
+        "/assets/model/xfusion-2288h-v7_u.png"
+      ],
+      "sourceType": "generated_from_reference",
+      "expectedRackUnits": 2,
+      "expectedDriveBays": 24,
+      "driveBayLayout": "24 x 2.5-inch SFF FusionServer 2288H V7 front panel sample based on the xFusion 2025 user guide Figure 1-6 and official product image",
+      "uPositionView": "straight front view, transparent background"
+    },
+    {
+      "brand": "Inspur",
+      "model": "NF5180M5",
+      "paths": [
+        "/assets/model/inspur-nf5180m5.png",
+        "/assets/model/inspur-nf5180m5_u.png"
+      ],
+      "sourceType": "generated_from_reference",
+      "expectedRackUnits": 1,
+      "expectedDriveBays": 10,
+      "driveBayLayout": "10 x 2.5-inch SFF single-row 1U front panel",
+      "uPositionView": "straight front view, transparent background"
+    },
+    {
+      "brand": "Inspur",
+      "model": "NF5280M4",
+      "paths": [
+        "/assets/model/inspur-nf5280m4.png",
+        "/assets/model/inspur-nf5280m4_u.png"
+      ],
+      "sourceType": "generated_from_reference",
+      "expectedRackUnits": 2,
+      "expectedDriveBays": 25,
+      "driveBayLayout": "25 x 2.5-inch SFF high-density 2U front panel sample",
+      "uPositionView": "straight front view, transparent background"
+    },
+    {
+      "brand": "Inspur",
+      "model": "NF5280M5",
+      "paths": [
+        "/assets/model/inspur-nf5280m5.png",
+        "/assets/model/inspur-nf5280m5_u.png"
+      ],
+      "sourceType": "generated_from_reference",
+      "expectedRackUnits": 2,
+      "expectedDriveBays": 24,
+      "driveBayLayout": "24 x 2.5-inch SFF front panel",
+      "uPositionView": "straight front view, transparent background"
+    },
+    {
+      "brand": "Inspur",
+      "model": "NF5466M5",
+      "paths": [
+        "/assets/model/inspur-nf5466m5.png",
+        "/assets/model/inspur-nf5466m5_u.png"
+      ],
+      "sourceType": "generated_from_reference",
+      "expectedRackUnits": 4,
+      "expectedDriveBays": 24,
+      "driveBayLayout": "24 front-visible 3.5-inch LFF bays in a 4-row by 6-column 4U front panel sample; rear/internal bays are not represented in the U-position image",
+      "uPositionView": "straight front view, transparent background"
+    },
+    {
+      "brand": "Inspur",
+      "model": "NF8260M5",
+      "paths": [
+        "/assets/model/inspur-nf8260m5.png",
+        "/assets/model/inspur-nf8260m5_u.png"
+      ],
+      "sourceType": "generated_from_reference",
+      "expectedRackUnits": 2,
+      "expectedDriveBays": 24,
+      "driveBayLayout": "24 x 2.5-inch SFF front panel with one row of vertical carriers based on the ServeTheHome NF8260M5 front reference",
+      "uPositionView": "straight front view, transparent background"
+    },
+    {
+      "brand": "Supermicro",
+      "model": "SYS-7049GP-TRT",
+      "paths": [
+        "/assets/model/supermicro-sys-7049gp-trt.png",
+        "/assets/model/supermicro-sys-7049gp-trt_u.png"
+      ],
+      "sourceType": "generated_from_reference",
+      "expectedRackUnits": 4,
+      "expectedDriveBays": 8,
+      "driveBayLayout": "8 x 3.5-inch hot-swap drive bay module with large ventilation grilles, based on the official 4U rackmountable/tower SYS-7049GP-TRT references",
+      "uPositionView": "straight front view in rackmount orientation, transparent background"
+    },
+    {
+      "brand": "THTF",
+      "model": "Chaoqiang K620 series",
+      "paths": [
+        "/assets/model/thtf-chaoqiang-k620-series.png",
+        "/assets/model/thtf-chaoqiang-k620-series_u.png"
+      ],
+      "sourceType": "generated_from_reference",
+      "expectedRackUnits": 2,
+      "expectedDriveBays": 12,
+      "driveBayLayout": "12 large front bay/filler sections in a 3-row by 4-column 2U layout based on the public K620 product reference",
+      "uPositionView": "straight front view, transparent background"
+    }
+  ],
+  "blockedAssets": [
+    {
+      "brand": "Supermicro",
+      "model": "SYS-1029UX-TN10RT+",
+      "paths": [
+        "/assets/model/supermicro-sys-1029ux-tn10rt-plus.png",
+        "/assets/model/supermicro-sys-1029ux-tn10rt-plus_u.png"
+      ],
+      "reason": "The exact live catalog value SYS-1029UX-TN10RT+ was not found in Supermicro official product pages. Official sources show SYS-1029U-TN10RT as a 1U 10-bay system, SYS-1028U-TN10RT+ as an older 1U SKU, and SYS-1029UX as a different LL-series product family.",
+      "candidateOfficialSkus": [
+        {
+          "sku": "SYS-1029U-TN10RT",
+          "evidence": "Supermicro official product page, 1U 10-bay Ultra SuperServer; likely typo if the live host is a current 10-bay 1U system"
+        },
+        {
+          "sku": "SYS-1028U-TN10RT+",
+          "evidence": "Supermicro official product page marks an older plus-suffix 1U 10-bay system; likely only if the live host is the previous generation"
+        }
+      ],
+      "requiredBeforeRelease": [
+        "confirm whether the live model should be corrected to SYS-1029U-TN10RT, SYS-1028U-TN10RT+, or another official Supermicro SKU",
+        "official or trusted front reference for the confirmed exact SKU",
+        "straight front U-position image matching the confirmed drive bay count",
+        "SERVER_MODEL_ASSETS.md reference row updated with the confirmed SKU",
+        "071_server_model_static_assets.sql updated only for the confirmed brand/model binding"
+      ]
+    },
+    {
+      "brand": "Supermicro",
+      "model": "SYS-6049U-TR4",
+      "paths": [
+        "/assets/model/supermicro-sys-6049u-tr4.png",
+        "/assets/model/supermicro-sys-6049u-tr4_u.png"
+      ],
+      "reason": "The exact live catalog value SYS-6049U-TR4 was not found in Supermicro official product pages. Official product lists show similarly named SYS-6029U-TR4 as a 2U 12-drive dual-socket system and SYS-2049U-TR4 as a 2U 24-drive four-socket system, so using either as a visual substitute would be unsafe.",
+      "candidateOfficialSkus": [
+        {
+          "sku": "SYS-6029U-TR4",
+          "evidence": "Supermicro official product page, 2U Ultra SuperServer with 12 x 3.5-inch hot-swap bays; not visually interchangeable with 2049U"
+        },
+        {
+          "sku": "SYS-2049U-TR4",
+          "evidence": "Supermicro official product page, 2U four-socket system with 24 x 2.5-inch bays; different platform and front layout"
+        }
+      ],
+      "requiredBeforeRelease": [
+        "confirm whether SYS-6049U-TR4 is a live data typo, private SKU, or unsupported alias",
+        "if it is a typo, correct or explicitly alias it to the verified official SKU before adding static assets",
+        "official or trusted front reference for the confirmed exact SKU",
+        "U-position image reviewed against the confirmed rack unit and drive bay count",
+        "SERVER_MODEL_ASSETS.md and 071_server_model_static_assets.sql updated together"
+      ]
+    },
+    {
+      "brand": "Supermicro",
+      "model": "SYS-6049U-TR4+",
+      "paths": [
+        "/assets/model/supermicro-sys-6049u-tr4-plus.png",
+        "/assets/model/supermicro-sys-6049u-tr4-plus_u.png"
+      ],
+      "reason": "The exact live catalog value SYS-6049U-TR4+ was not found in Supermicro official product pages. The closest official matches differ in product family and drive layout, so no nearby chassis image should be reused.",
+      "candidateOfficialSkus": [
+        {
+          "sku": "SYS-6029U-TR4",
+          "evidence": "Closest official TR4 naming pattern, but it has no plus suffix and uses a different verified model string"
+        },
+        {
+          "sku": "SYS-2049U-TR4",
+          "evidence": "Closest official 4-socket TR4 candidate, but model prefix and front layout differ from the live catalog value"
+        }
+      ],
+      "requiredBeforeRelease": [
+        "confirm exact official SKU or documented Supermicro alias",
+        "official or trusted front reference for that exact SKU",
+        "straight front U-position image with verified rack unit and drive bay count",
+        "SERVER_MODEL_ASSETS.md reference row updated",
+        "071_server_model_static_assets.sql updated"
+      ]
+    },
+    {
+      "brand": "Supermicro",
+      "model": "SYS-6049U-TR4N+",
+      "paths": [
+        "/assets/model/supermicro-sys-6049u-tr4n-plus.png",
+        "/assets/model/supermicro-sys-6049u-tr4n-plus_u.png"
+      ],
+      "reason": "The exact live catalog value SYS-6049U-TR4N+ was not found in Supermicro official product pages, and the suffix implies a different network/storage variant that cannot be inferred safely from SYS-6029U or SYS-2049U images.",
+      "candidateOfficialSkus": [
+        {
+          "sku": "SYS-6029U-TR4",
+          "evidence": "Closest official non-N TR4 candidate; N/+ suffix must be verified before any alias is accepted"
+        },
+        {
+          "sku": "SYS-2049U-TR4",
+          "evidence": "Possible 4-socket family candidate, but not a documented alias for SYS-6049U-TR4N+"
+        }
+      ],
+      "requiredBeforeRelease": [
+        "confirm exact official SKU or documented Supermicro alias",
+        "official or trusted front reference for that exact SKU",
+        "straight front U-position image with verified rack unit and drive bay count",
+        "SERVER_MODEL_ASSETS.md reference row updated",
+        "071_server_model_static_assets.sql updated"
+      ]
+    },
+    {
+      "brand": "Rack",
+      "model": "RackServer RS1120",
+      "paths": [
+        "/assets/model/rackserver-rs1120.png",
+        "/assets/model/rackserver-rs1120_u.png"
+      ],
+      "reason": "The live catalog brand is Rack and the model is RackServer RS1120, but no authoritative public vendor/product page was found for this exact server model. The name resembles NAS/rack appliance naming patterns, so a generic rack server image would be unsafe.",
+      "candidateOfficialSkus": [],
+      "requiredBeforeRelease": [
+        "confirm the real vendor and product line behind the Rack brand",
+        "confirm whether RS1120 is a rack server, NAS appliance, or private/OEM SKU",
+        "official or trusted straight front reference for the exact confirmed model",
+        "model image and U-position image reviewed against the confirmed rack unit and bay layout",
+        "SERVER_MODEL_ASSETS.md and 071_server_model_static_assets.sql updated together"
+      ]
+    },
+    {
+      "brand": "Rack",
+      "model": "RackServer RS1220+",
+      "paths": [
+        "/assets/model/rackserver-rs1220-plus.png",
+        "/assets/model/rackserver-rs1220-plus_u.png"
+      ],
+      "reason": "The live catalog brand is Rack and the model is RackServer RS1220+, but no authoritative public vendor/product page was found for this exact server model. Similar NAS-style model names are not evidence that this is the same hardware.",
+      "candidateOfficialSkus": [
+        {
+          "sku": "Synology RackStation RS1221+",
+          "evidence": "Synology official RackStation SKU with the closest public model pattern; no official RS1220+ page was found, so this must be treated as a candidate for data correction only"
+        }
+      ],
+      "requiredBeforeRelease": [
+        "confirm the real vendor and official SKU",
+        "do not substitute similarly named NAS or RackStation models without an explicit alias",
+        "official or trusted straight front reference for the exact confirmed model",
+        "model image and U-position image reviewed against the confirmed rack unit and bay layout",
+        "SERVER_MODEL_ASSETS.md and 071_server_model_static_assets.sql updated together"
+      ]
+    },
+    {
+      "brand": "Rack",
+      "model": "RackServer RS2220",
+      "paths": [
+        "/assets/model/rackserver-rs2220.png",
+        "/assets/model/rackserver-rs2220_u.png"
+      ],
+      "reason": "The live catalog brand is Rack and the model is RackServer RS2220, but no authoritative public vendor/product page was found for this exact server model.",
+      "candidateOfficialSkus": [],
+      "requiredBeforeRelease": [
+        "confirm the real vendor and official SKU",
+        "official or trusted straight front reference for the exact confirmed model",
+        "model image and U-position image reviewed against the confirmed rack unit and bay layout",
+        "SERVER_MODEL_ASSETS.md and 071_server_model_static_assets.sql updated together"
+      ]
+    },
+    {
+      "brand": "Rack",
+      "model": "RackServer RS2220+",
+      "paths": [
+        "/assets/model/rackserver-rs2220-plus.png",
+        "/assets/model/rackserver-rs2220-plus_u.png"
+      ],
+      "reason": "The live catalog brand is Rack and the model is RackServer RS2220+, but no authoritative public vendor/product page was found for this exact server model.",
+      "candidateOfficialSkus": [],
+      "requiredBeforeRelease": [
+        "confirm the real vendor and official SKU",
+        "do not infer layout from RS2220 or similarly named appliances without an explicit vendor alias",
+        "official or trusted straight front reference for the exact confirmed model",
+        "model image and U-position image reviewed against the confirmed rack unit and bay layout",
+        "SERVER_MODEL_ASSETS.md and 071_server_model_static_assets.sql updated together"
+      ]
+    },
+    {
+      "brand": "Rack",
+      "model": "RackServer RS3410",
+      "paths": [
+        "/assets/model/rackserver-rs3410.png",
+        "/assets/model/rackserver-rs3410_u.png"
+      ],
+      "reason": "The live catalog brand is Rack and the model is RackServer RS3410, but no authoritative public vendor/product page was found for this exact server model.",
+      "candidateOfficialSkus": [
+        {
+          "sku": "Synology FlashStation FS3410",
+          "evidence": "Synology official 2U 24 x 2.5-inch SATA SSD FlashStation; brand and prefix differ from RackServer RS3410, so this is only a candidate correction path"
+        }
+      ],
+      "requiredBeforeRelease": [
+        "confirm the real vendor and official SKU",
+        "official or trusted straight front reference for the exact confirmed model",
+        "model image and U-position image reviewed against the confirmed rack unit and bay layout",
+        "SERVER_MODEL_ASSETS.md and 071_server_model_static_assets.sql updated together"
+      ]
+    },
+    {
+      "brand": "超威",
+      "model": "Pro 3050 G-Series",
+      "paths": [
+        "/assets/model/chaowei-pro-3050-g-series.png",
+        "/assets/model/chaowei-pro-3050-g-series_u.png"
+      ],
+      "reason": "The live catalog brand is 超威 and the model is Pro 3050 G-Series, but no authoritative public server product reference was found for this exact brand/model pair. The brand may represent an internal/OEM naming convention and must not be mapped to another vendor by guesswork.",
+      "requiredBeforeRelease": [
+        "confirm the vendor identity represented by 超威",
+        "confirm the exact official SKU and product category",
+        "official or trusted front reference for the confirmed hardware",
+        "SERVER_MODEL_ASSETS.md reference row updated with the confirmed vendor",
+        "071_server_model_static_assets.sql updated only after the brand/model binding is verified"
+      ]
+    },
+    {
+      "brand": "超威",
+      "model": "Pro 3050 G2",
+      "paths": [
+        "/assets/model/chaowei-pro-3050-g2.png",
+        "/assets/model/chaowei-pro-3050-g2_u.png"
+      ],
+      "reason": "The live catalog brand is 超威 and the model is Pro 3050 G2, but no authoritative public server product reference was found for this exact brand/model pair.",
+      "requiredBeforeRelease": [
+        "confirm the vendor identity represented by 超威",
+        "confirm whether Pro 3050 G2 is a server, workstation, or private/OEM SKU",
+        "official or trusted front reference for the confirmed hardware",
+        "SERVER_MODEL_ASSETS.md reference row updated with the confirmed vendor",
+        "071_server_model_static_assets.sql updated only after the brand/model binding is verified"
+      ]
+    },
+    {
+      "brand": "超威",
+      "model": "Pro 5 1200 G-Series",
+      "paths": [
+        "/assets/model/chaowei-pro-5-1200-g-series.png",
+        "/assets/model/chaowei-pro-5-1200-g-series_u.png"
+      ],
+      "reason": "The live catalog brand is 超威 and the model is Pro 5 1200 G-Series, but no authoritative public server product reference was found for this exact brand/model pair.",
+      "requiredBeforeRelease": [
+        "confirm the vendor identity represented by 超威",
+        "confirm the exact official SKU and front-panel layout",
+        "official or trusted front reference for the confirmed hardware",
+        "SERVER_MODEL_ASSETS.md reference row updated with the confirmed vendor",
+        "071_server_model_static_assets.sql updated only after the brand/model binding is verified"
+      ]
+    },
+    {
+      "brand": "超威",
+      "model": "Pro 5 1200 G2",
+      "paths": [
+        "/assets/model/chaowei-pro-5-1200-g2.png",
+        "/assets/model/chaowei-pro-5-1200-g2_u.png"
+      ],
+      "reason": "The live catalog brand is 超威 and the model is Pro 5 1200 G2, but no authoritative public server product reference was found for this exact brand/model pair.",
+      "requiredBeforeRelease": [
+        "confirm the vendor identity represented by 超威",
+        "confirm the exact official SKU and front-panel layout",
+        "official or trusted front reference for the confirmed hardware",
+        "SERVER_MODEL_ASSETS.md reference row updated with the confirmed vendor",
+        "071_server_model_static_assets.sql updated only after the brand/model binding is verified"
+      ]
+    },
+    {
+      "brand": "超威",
+      "model": "Pro 7 1200 G-Series",
+      "paths": [
+        "/assets/model/chaowei-pro-7-1200-g-series.png",
+        "/assets/model/chaowei-pro-7-1200-g-series_u.png"
+      ],
+      "reason": "The live catalog brand is 超威 and the model is Pro 7 1200 G-Series, but no authoritative public server product reference was found for this exact brand/model pair.",
+      "requiredBeforeRelease": [
+        "confirm the vendor identity represented by 超威",
+        "confirm the exact official SKU and front-panel layout",
+        "official or trusted front reference for the confirmed hardware",
+        "SERVER_MODEL_ASSETS.md reference row updated with the confirmed vendor",
+        "071_server_model_static_assets.sql updated only after the brand/model binding is verified"
+      ]
+    }
+  ],
+  "structuralConstraints": [
+    {
+      "brand": "Dell",
+      "model": "PowerEdge R720 XD",
+      "expectedDriveBays": 24,
+      "driveBayLayout": "24 x 2.5-inch SFF high-density front panel",
+      "uPositionView": "straight front view only"
+    }
+  ]
+}

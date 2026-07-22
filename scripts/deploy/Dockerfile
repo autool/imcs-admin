@@ -1,0 +1,45 @@
+FROM node:22-slim AS builder
+
+# --max-old-space-size
+ENV PNPM_HOME="/pnpm"
+ENV PATH="$PNPM_HOME:$PATH"
+ENV NODE_OPTIONS=--max-old-space-size=8192
+ENV TZ=Asia/Shanghai
+ENV CI=true
+
+RUN npm i -g corepack
+
+WORKDIR /app
+
+# copy package.json and pnpm-lock.yaml to workspace
+COPY . /app
+
+# 安装依赖/
+RUN pnpm install
+RUN pnpm run build:antd
+
+RUN echo "Builder Success 🎉"
+
+FROM nginx:stable-alpine AS production
+
+ENV TZ=Asia/Shanghai
+
+RUN apk add --no-cache tzdata \
+    && cp /usr/share/zoneinfo/${TZ} /etc/localtime \
+    && echo ${TZ} > /etc/timezone
+
+# 配置 nginx
+RUN echo "types { application/javascript js mjs; }" > /etc/nginx/conf.d/mjs.conf \
+    && rm -rf /etc/nginx/conf.d/default.conf
+
+# 复制构建产物
+COPY --from=builder /app/apps/web-antd/dist /usr/share/nginx/html
+
+# 复制 nginx 配置
+COPY --from=builder /app/scripts/deploy/nginx.conf /etc/nginx/nginx.conf
+COPY --from=builder /app/scripts/deploy/cert /etc/nginx/cert
+
+EXPOSE 80 443
+
+# 启动 nginx
+CMD ["nginx", "-g", "daemon off;"]
