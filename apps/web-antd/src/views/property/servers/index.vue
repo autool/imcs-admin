@@ -49,6 +49,7 @@ type ServerRow = RowType & {
   color?: string;
   ip_address?: string;
   status?: string;
+  uPosition?: string;
 };
 
 // 状态筛选
@@ -240,6 +241,7 @@ const gridOptions: VxeGridProps<ServerRow> = {
     { field: 'serial_number', title: '序列号', width: 150 },
     { field: 'tag_number', title: '资产号', width: 150 },
     { field: 'asset_location', title: '资产位置', width: 230 },
+    { field: 'uPosition', title: 'U位', width: 100 },
     {
       field: 'open',
       slots: { default: 'open' },

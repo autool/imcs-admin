@@ -55,6 +55,7 @@ interface ServerInfo {
   serialNumber: string;
   tag_number: string;
   location: string;
+  uPosition: string;
   power_state: string;
   status: string;
   color: string;
@@ -633,6 +634,9 @@ const [Drawer, drawerApi] = useVbenDrawer({
                     </ADescriptionsItem>
                     <ADescriptionsItem label="资产位置">
                       {{ serverInfo.location || '-' }}
+                    </ADescriptionsItem>
+                    <ADescriptionsItem label="U位">
+                      {{ serverInfo.uPosition || '-' }}
                     </ADescriptionsItem>
                   </ADescriptions>
                 </div>
